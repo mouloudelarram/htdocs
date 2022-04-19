@@ -1,0 +1,46 @@
+.loginfo{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    border: 1px black;
+    padding: 20px;
+}
+.score{
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid;
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    height: 50vh;
+    margin: 10px;
+}
+article{
+    position: relative;
+    width: 74%;
+    border: 1px solid;
+}
+form{
+    display: inline-block;
+}
+aside{
+    width: 25%;
+    border: 1px solid;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: indianred;
+}
+#target{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    background-color: chocolate;
+}

@@ -1,0 +1,22 @@
+body
+{
+	background-color: #dddddd;
+	margin :20px;
+	margin-color:#00eeee;
+}
+.size
+{
+	display: inline-flex;
+}
+#sitt
+{
+	width: 70px; height: 70px ;margin: 50px;
+}
+.look
+{
+	width: 1000px; height: 70px ;margin: 50px;opacity: 25%;
+}
+.div2
+{
+	width: 100px;height: 100px;
+}
